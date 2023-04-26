@@ -12,14 +12,24 @@ img {
 .box-title {
   background-color: #11161D;
   color: #E6F3FF;
-  width: 50%;
+  padding: 20px;
 }
 
 .disquette { 
   width: 10%;
   padding-bottom: 20px;
+  padding-left: 110px;
 }
 
+h2 {
+  text-align: center;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+p {
+  text-align: center;
+  font-family: 'Space Grotesk', sans-serif;
+}
 header {
   background-image: url(../img/bg-background.png);
   padding: 30px;
@@ -30,13 +40,18 @@ header {
   padding: 30px;
 }
 
+.produits {
+  background: #E6F3FF; 
+  border-radius: 15px;
+}
+
 h3 { 
   background: #E6F3FF;
   color: #11161D;
   padding: 30px;
   padding-bottom: 100px;
   border-radius: 15px;
-
+  font-family: 'Space Grotesk', sans-serif;
 }
 
 .section-dark {
@@ -54,6 +69,7 @@ h3 {
   border-radius: 12px;
   margin: 20px;
   padding: 10px;
+  font-family: 'Space Grotesk', sans-serif;
 }
 
 .act {
@@ -65,10 +81,12 @@ h3 {
   border-radius: 12px;
   margin: 20px;
   padding: 10px;
+  font-family: 'Space Grotesk', sans-serif;
 }
 
 footer{
   background: #11161D;
   padding: 30px;
   color: #E6F3FF;
+  font-family: 'Space Grotesk', sans-serif;
 }
