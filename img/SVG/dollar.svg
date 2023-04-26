@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95.53 70.15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #939698;
+      }
+
+      .cls-3 {
+        fill: #cecece;
+      }
+
+      .cls-4 {
+        fill: #95bd58;
+      }
+
+      .cls-5 {
+        fill: #77943f;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <rect class="cls-5" y="56.72" width="95.53" height="13.43"/>
+      <rect class="cls-4" width="95.53" height="56.72"/>
+      <rect class="cls-2" x="35.82" y="56.72" width="23.88" height="13.43"/>
+      <rect class="cls-5" x="5.97" y="5.97" width="83.59" height="44.78"/>
+      <rect class="cls-4" x="10.45" y="10.45" width="74.63" height="35.82"/>
+      <circle class="cls-5" cx="67.17" cy="28.36" r="11.94" transform="translate(33.1 92.82) rotate(-85.03)"/>
+      <rect class="cls-3" x="35.82" width="23.88" height="56.72"/>
+      <path class="cls-1" d="m23.88,26.87c-1.65,0-2.99-1.34-2.99-2.99s1.34-2.99,2.99-2.99,2.99,1.34,2.99,2.99h2.99c0-2.77-1.91-5.09-4.48-5.76v-1.71h-2.99v1.71c-2.57.67-4.48,2.98-4.48,5.76,0,3.29,2.68,5.97,5.97,5.97,1.65,0,2.99,1.34,2.99,2.99s-1.34,2.99-2.99,2.99-2.99-1.34-2.99-2.99h-2.99c0,2.77,1.91,5.09,4.48,5.76v1.71h2.99v-1.71c2.57-.67,4.48-2.98,4.48-5.76,0-3.29-2.68-5.97-5.97-5.97Z"/>
+    </g>
+  </g>
+</svg>

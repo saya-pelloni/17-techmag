@@ -26,6 +26,16 @@ h2 {
   font-family: 'Space Grotesk', sans-serif;
 }
 
+.bird {
+  width: 40%;
+  margin-left: 130px;
+}
+
+.dollar {
+  width: 40%;
+  margin-left: 130px;
+}
+
 p {
   text-align: center;
   font-family: 'Space Grotesk', sans-serif;
@@ -48,8 +58,8 @@ header {
 h3 { 
   background: #E6F3FF;
   color: #11161D;
-  padding: 30px;
-  padding-bottom: 100px;
+  padding: 20px;
+  padding-bottom: 30pxpx;
   border-radius: 15px;
   font-family: 'Space Grotesk', sans-serif;
 }
