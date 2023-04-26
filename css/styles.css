@@ -8,3 +8,7 @@ img {
   display: block;
   max-width: 100%;
 }
+
+header {
+  background-image: url(../img/DALL·E\ 2023-04-24\ 23.27.07\ -\ Create\ the\ background\ of\ a\ website\,\ some\ texture\,\ that\ looks\ like\ technology\ and\ electronic.png);
+}
