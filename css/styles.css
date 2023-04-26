@@ -9,6 +9,40 @@ img {
   max-width: 100%;
 }
 
+.box-title {
+  background-color: #11161D;
+  color: #E6F3FF;
+  width: 50%;
+}
+
 header {
   background-image: url(../img/DALL·E\ 2023-04-24\ 23.27.07\ -\ Create\ the\ background\ of\ a\ website\,\ some\ texture\,\ that\ looks\ like\ technology\ and\ electronic.png);
+  padding: 30px;
+}
+
+.section-light {
+  background: #E6F3FF;
+}
+
+.act-light {
+  display: flex;
+  background-color: #E6F3FF;
+  color: #11161D;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 12px;
+  margin: 20px;
+  padding: 10px;
+
+}
+
+.act {
+  display: flex;
+  background-color: #11161D;
+  color: #E6F3FF;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 12px;
+  margin: 20px;
+  padding: 10px;
 }
