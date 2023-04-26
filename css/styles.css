@@ -30,9 +30,19 @@ header {
   padding: 30px;
 }
 
+h3 { 
+  background: #E6F3FF;
+  color: #11161D;
+  padding: 30px;
+  padding-bottom: 100px;
+  border-radius: 15px;
+
+}
+
 .section-dark {
   background: #11161D;
   padding: 30px;
+  color: #E6F3FF;
 }
 
 .act-light {
@@ -60,4 +70,5 @@ header {
 footer{
   background: #11161D;
   padding: 30px;
+  color: #E6F3FF;
 }
